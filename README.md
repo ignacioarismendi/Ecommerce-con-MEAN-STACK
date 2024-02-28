@@ -1,5 +1,5 @@
 # Ecommerce con MEAN STACK
-Curso desarrollado en Udemy
+# Curso desarrollado en Udemy
 Desmenuzaremos el proceso completo de desarrollo de una tienda online utilizando la poderosa combinación de MEAN STACK (MongoDB, Express.js, Angular y Node.js). Desde la gestión de la base de datos hasta la implementación de una interfaz de usuario elegante.
 * Programación del backend (Node) y frontend por separado (Angular).
 * Análisis de la lógica de negocio del comercio electrónico.
