@@ -23,3 +23,6 @@ Desmenuzaremos el proceso completo de desarrollo de una tienda online utilizando
 * Informes de la tienda con exportación a Excel.
 * Backup y restauración de base de datos en MongoDB en producción y desarrollo.
 * Notificaciones en tiempo real.
+
+* [LinkedIn] (https://www.linkedin.com/in/ignacio-arismendi-7a218627b/)
++
