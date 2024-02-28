@@ -28,4 +28,4 @@ Desmenuzaremos el proceso completo de desarrollo de una tienda online utilizando
 **Ignacio Arismendi**
 
 * [LinkedIn] (https://www.linkedin.com/in/ignacio-arismendi-7a218627b/)
-+
+
