@@ -24,5 +24,8 @@ Desmenuzaremos el proceso completo de desarrollo de una tienda online utilizando
 * Backup y restauración de base de datos en MongoDB en producción y desarrollo.
 * Notificaciones en tiempo real.
 
+## Autor _
+**Ignacio Arismendi**
+
 * [LinkedIn] (https://www.linkedin.com/in/ignacio-arismendi-7a218627b/)
 +
